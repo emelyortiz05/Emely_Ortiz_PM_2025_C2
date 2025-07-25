@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1753471473 source:c:\users\usuario\desktop\tarea9_ajedrez\ajedrez\main.c
+	<stdio.h>
+	<stdlib.h>
+
